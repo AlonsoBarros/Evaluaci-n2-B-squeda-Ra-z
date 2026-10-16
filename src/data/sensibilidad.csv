@@ -1,0 +1,145 @@
+funcion,ambiente,metodo,convergio,iteraciones,raiz
+x^3 - x - 2,intervalo original,Bisección,True,20,1.5213804244995117
+x^3 - x - 2,intervalo original,Falsa posición,True,12,1.521379461790157
+x^3 - x - 2,intervalo original,Punto fijo,True,7,1.5213796792714414
+x^3 - x - 2,intervalo original,Secante,True,3,1.5213797764176016
+x^3 - x - 2,intervalo original,Newton,True,2,1.5213798059647863
+x^3 - x - 2,intervalo original,Newton mejorado,True,2,1.5213796094955705
+x^3 - x - 2,intervalo ampliado,Bisección,True,21,1.5213804244995117
+x^3 - x - 2,intervalo ampliado,Falsa posición,True,20,1.5213788722170376
+x^3 - x - 2,intervalo ampliado,Punto fijo,True,8,1.5213796042392627
+x^3 - x - 2,intervalo ampliado,Secante,True,6,1.521379609167852
+x^3 - x - 2,intervalo ampliado,Newton,True,5,1.521379709733148
+x^3 - x - 2,intervalo ampliado,Newton mejorado,True,5,1.5213797067341104
+x^3 - x - 2,x0 en el extremo a,Bisección,True,20,1.5213804244995117
+x^3 - x - 2,x0 en el extremo a,Falsa posición,True,12,1.521379461790157
+x^3 - x - 2,x0 en el extremo a,Punto fijo,True,8,1.5213796042392627
+x^3 - x - 2,x0 en el extremo a,Secante,True,6,1.521379609167852
+x^3 - x - 2,x0 en el extremo a,Newton,True,5,1.521379709733148
+x^3 - x - 2,x0 en el extremo a,Newton mejorado,True,5,1.5213797067341104
+x^3 - x - 2,x0 en el extremo b,Bisección,True,20,1.5213804244995117
+x^3 - x - 2,x0 en el extremo b,Falsa posición,True,12,1.521379461790157
+x^3 - x - 2,x0 en el extremo b,Punto fijo,True,8,1.521379791014052
+x^3 - x - 2,x0 en el extremo b,Secante,True,6,1.5213797068424546
+x^3 - x - 2,x0 en el extremo b,Newton,True,4,1.521379709733148
+x^3 - x - 2,x0 en el extremo b,Newton mejorado,True,4,1.5213796944745157
+(x - 2)^2,x0=1.2,Bisección,False,0,nan
+(x - 2)^2,x0=1.2,Falsa posición,False,0,nan
+(x - 2)^2,x0=1.2,Punto fijo,True,20,1.9999992370605468
+(x - 2)^2,x0=1.2,Secante,True,13,1.9990432910786893
+(x - 2)^2,x0=1.2,Newton,True,10,1.99921875
+(x - 2)^2,x0=1.2,Newton mejorado,True,1,2.0
+(x - 2)^2,x0=0.5,Bisección,False,0,nan
+(x - 2)^2,x0=0.5,Falsa posición,False,0,nan
+(x - 2)^2,x0=0.5,Punto fijo,True,21,1.9999992847442627
+(x - 2)^2,x0=0.5,Secante,True,15,1.9991004497751124
+(x - 2)^2,x0=0.5,Newton,True,11,1.999267578125
+(x - 2)^2,x0=0.5,Newton mejorado,True,1,2.0
+(x - 2)^2,x0=1.9,Bisección,False,0,nan
+(x - 2)^2,x0=1.9,Falsa posición,False,0,nan
+(x - 2)^2,x0=1.9,Punto fijo,True,17,1.9999992370605468
+(x - 2)^2,x0=1.9,Secante,True,1,2.0
+(x - 2)^2,x0=1.9,Newton,True,7,1.99921875
+(x - 2)^2,x0=1.9,Newton mejorado,True,1,2.0
+(x - 2)^2,x0=3.0,Bisección,False,0,nan
+(x - 2)^2,x0=3.0,Falsa posición,False,0,nan
+(x - 2)^2,x0=3.0,Punto fijo,True,20,2.0000009536743164
+(x - 2)^2,x0=3.0,Secante,True,15,2.0006634499396863
+(x - 2)^2,x0=3.0,Newton,True,10,2.0009765625
+(x - 2)^2,x0=3.0,Newton mejorado,True,1,2.0
+ln(x) + x - 4,intervalo original,Bisección,True,19,2.926271438598633
+ln(x) + x - 4,intervalo original,Falsa posición,True,4,2.926271481822187
+ln(x) + x - 4,intervalo original,Punto fijo,True,14,2.926270928625928
+ln(x) + x - 4,intervalo original,Secante,True,3,2.9262710301001666
+ln(x) + x - 4,intervalo original,Newton,True,3,2.9262710624428703
+ln(x) + x - 4,intervalo original,Newton mejorado,True,3,2.926271062444928
+ln(x) + x - 4,intervalo ampliado,Bisección,True,20,2.926271438598633
+ln(x) + x - 4,intervalo ampliado,Falsa posición,True,6,2.9262712764447105
+ln(x) + x - 4,intervalo ampliado,Punto fijo,True,15,2.9262711701180715
+ln(x) + x - 4,intervalo ampliado,Secante,True,4,2.9262710620525763
+ln(x) + x - 4,intervalo ampliado,Newton,True,3,2.9262710616557825
+ln(x) + x - 4,intervalo ampliado,Newton mejorado,True,3,2.9262710677335604
+ln(x) + x - 4,x0 en el extremo a,Bisección,True,19,2.926271438598633
+ln(x) + x - 4,x0 en el extremo a,Falsa posición,True,4,2.926271481822187
+ln(x) + x - 4,x0 en el extremo a,Punto fijo,True,15,2.9262711701180715
+ln(x) + x - 4,x0 en el extremo a,Secante,True,4,2.9262710620525763
+ln(x) + x - 4,x0 en el extremo a,Newton,True,3,2.9262710616557825
+ln(x) + x - 4,x0 en el extremo a,Newton mejorado,True,3,2.9262710677335604
+ln(x) + x - 4,x0 en el extremo b,Bisección,True,19,2.926271438598633
+ln(x) + x - 4,x0 en el extremo b,Falsa posición,True,4,2.926271481822187
+ln(x) + x - 4,x0 en el extremo b,Punto fijo,True,12,2.9262712477241966
+ln(x) + x - 4,x0 en el extremo b,Secante,True,3,2.926271062534105
+ln(x) + x - 4,x0 en el extremo b,Newton,True,2,2.926271060135582
+ln(x) + x - 4,x0 en el extremo b,Newton mejorado,True,2,2.926271064602574
+e^(-x) - x,intervalo original,Bisección,True,20,0.567143440246582
+e^(-x) - x,intervalo original,Falsa posición,True,7,0.5671433760339214
+e^(-x) - x,intervalo original,Punto fijo,True,22,0.5671430289524634
+e^(-x) - x,intervalo original,Secante,True,3,0.5671432905821386
+e^(-x) - x,intervalo original,Newton,True,2,0.5671431650348622
+e^(-x) - x,intervalo original,Newton mejorado,True,2,0.5671434273931901
+e^(-x) - x,intervalo ampliado,Bisección,True,21,0.567143440246582
+e^(-x) - x,intervalo ampliado,Falsa posición,True,10,0.5671435272281637
+e^(-x) - x,intervalo ampliado,Punto fijo,True,26,0.5671430308342419
+e^(-x) - x,intervalo ampliado,Secante,True,4,0.567143245450306
+e^(-x) - x,intervalo ampliado,Newton,True,3,0.5671431650348622
+e^(-x) - x,intervalo ampliado,Newton mejorado,True,3,0.5671437679081484
+e^(-x) - x,x0 en el extremo a,Bisección,True,20,0.567143440246582
+e^(-x) - x,x0 en el extremo a,Falsa posición,True,7,0.5671433760339214
+e^(-x) - x,x0 en el extremo a,Punto fijo,True,26,0.5671430308342419
+e^(-x) - x,x0 en el extremo a,Secante,True,4,0.567143245450306
+e^(-x) - x,x0 en el extremo a,Newton,True,3,0.5671431650348622
+e^(-x) - x,x0 en el extremo a,Newton mejorado,True,3,0.5671437679081484
+e^(-x) - x,x0 en el extremo b,Bisección,True,20,0.567143440246582
+e^(-x) - x,x0 en el extremo b,Falsa posición,True,7,0.5671433760339214
+e^(-x) - x,x0 en el extremo b,Punto fijo,True,25,0.5671430308342419
+e^(-x) - x,x0 en el extremo b,Secante,True,4,0.5671432788687241
+e^(-x) - x,x0 en el extremo b,Newton,True,3,0.567143285989123
+e^(-x) - x,x0 en el extremo b,Newton mejorado,True,3,0.5671432916977236
+cos(x) - x,intervalo original,Bisección,True,20,0.7390851974487305
+cos(x) - x,intervalo original,Falsa posición,True,5,0.7390847824489231
+cos(x) - x,intervalo original,Punto fijo,True,34,0.7390848229131414
+cos(x) - x,intervalo original,Secante,True,3,0.739084558312839
+cos(x) - x,intervalo original,Newton,True,3,0.7390851339208068
+cos(x) - x,intervalo original,Newton mejorado,True,3,0.7390851321653727
+cos(x) - x,intervalo ampliado,Bisección,True,21,0.7390851974487305
+cos(x) - x,intervalo ampliado,Falsa posición,True,7,0.7390846171092257
+cos(x) - x,intervalo ampliado,Punto fijo,True,35,0.7390855263619245
+cos(x) - x,intervalo ampliado,Secante,True,5,0.7390851284702705
+cos(x) - x,intervalo ampliado,Newton,True,4,0.739085133385284
+cos(x) - x,intervalo ampliado,Newton mejorado,True,4,0.7390851321653727
+cos(x) - x,x0 en el extremo a,Bisección,True,20,0.7390851974487305
+cos(x) - x,x0 en el extremo a,Falsa posición,True,5,0.7390847824489231
+cos(x) - x,x0 en el extremo a,Punto fijo,True,35,0.7390855263619245
+cos(x) - x,x0 en el extremo a,Secante,True,5,0.7390851284702705
+cos(x) - x,x0 en el extremo a,Newton,True,4,0.739085133385284
+cos(x) - x,x0 en el extremo a,Newton mejorado,True,4,0.7390851321653727
+cos(x) - x,x0 en el extremo b,Bisección,True,20,0.7390851974487305
+cos(x) - x,x0 en el extremo b,Falsa posición,True,5,0.7390847824489231
+cos(x) - x,x0 en el extremo b,Punto fijo,True,34,0.7390855263619245
+cos(x) - x,x0 en el extremo b,Secante,True,4,0.7390851338641349
+cos(x) - x,x0 en el extremo b,Newton,True,3,0.739085133385284
+cos(x) - x,x0 en el extremo b,Newton mejorado,True,3,0.7390851331587
+sqrt(x) - cos(x),intervalo original,Bisección,True,20,0.641714382171631
+sqrt(x) - cos(x),intervalo original,Falsa posición,True,4,0.6417138391748605
+sqrt(x) - cos(x),intervalo original,Punto fijo,True,14,0.6417141055339437
+sqrt(x) - cos(x),intervalo original,Secante,True,3,0.6417143705771605
+sqrt(x) - cos(x),intervalo original,Newton,True,2,0.641714866792004
+sqrt(x) - cos(x),intervalo original,Newton mejorado,True,2,0.6417142562525041
+sqrt(x) - cos(x),intervalo ampliado,Bisección,True,17,0.6417142105102538
+sqrt(x) - cos(x),intervalo ampliado,Falsa posición,True,8,0.6417147342798549
+sqrt(x) - cos(x),intervalo ampliado,Punto fijo,True,15,0.6417139862023872
+sqrt(x) - cos(x),intervalo ampliado,Secante,True,4,0.6417143706946141
+sqrt(x) - cos(x),intervalo ampliado,Newton,True,3,0.6417148277323267
+sqrt(x) - cos(x),intervalo ampliado,Newton mejorado,False,100,nan
+sqrt(x) - cos(x),x0 en el extremo a,Bisección,True,20,0.641714382171631
+sqrt(x) - cos(x),x0 en el extremo a,Falsa posición,True,4,0.6417138391748605
+sqrt(x) - cos(x),x0 en el extremo a,Punto fijo,True,15,0.6417139862023872
+sqrt(x) - cos(x),x0 en el extremo a,Secante,True,4,0.6417143706946141
+sqrt(x) - cos(x),x0 en el extremo a,Newton,True,3,0.6417148277323267
+sqrt(x) - cos(x),x0 en el extremo a,Newton mejorado,False,100,nan
+sqrt(x) - cos(x),x0 en el extremo b,Bisección,True,20,0.641714382171631
+sqrt(x) - cos(x),x0 en el extremo b,Falsa posición,True,4,0.6417138391748605
+sqrt(x) - cos(x),x0 en el extremo b,Punto fijo,True,14,0.6417149378257078
+sqrt(x) - cos(x),x0 en el extremo b,Secante,True,4,0.6417143712692789
+sqrt(x) - cos(x),x0 en el extremo b,Newton,True,3,0.6417143710025017
+sqrt(x) - cos(x),x0 en el extremo b,Newton mejorado,True,3,0.6417143708330613

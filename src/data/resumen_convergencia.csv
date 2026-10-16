@@ -1,0 +1,37 @@
+funcion,metodo,convergio,iteraciones,raiz,error_abs,mensaje
+x^3 - x - 2,Bisección,True,20,1.5213804244995117,7.176949441412006e-07,correcto
+x^3 - x - 2,Falsa posición,True,12,1.521379461790157,2.450144105381469e-07,correcto
+x^3 - x - 2,Punto fijo,True,7,1.5213796792714414,2.7533126223389104e-08,correcto
+x^3 - x - 2,Secante,True,3,1.5213797764176016,6.961303400387919e-08,correcto
+x^3 - x - 2,Newton,True,2,1.5213798059647863,9.916021870282066e-08,correcto
+x^3 - x - 2,Newton mejorado,True,2,1.5213796094955705,9.730899708237928e-08,correcto
+(x - 2)^2,Bisección,False,0,nan,,No aplica: sin cambio de signo
+(x - 2)^2,Falsa posición,False,0,nan,,sin cambio de signo
+(x - 2)^2,Punto fijo,True,20,1.9999992370605468,7.629394531694089e-07,correcto
+(x - 2)^2,Secante,True,13,1.9990432910786893,0.0009567089213107227,correcto
+(x - 2)^2,Newton,True,10,1.99921875,0.0007812499999999556,correcto
+(x - 2)^2,Newton mejorado,True,1,2.0,0.0,correcto
+ln(x) + x - 4,Bisección,True,19,2.926271438598633,3.761551319314549e-07,correcto
+ln(x) + x - 4,Falsa posición,True,4,2.926271481822187,4.193786860007265e-07,correcto
+ln(x) + x - 4,Punto fijo,True,14,2.926270928625928,1.3381757302255437e-07,correcto
+ln(x) + x - 4,Secante,True,3,2.9262710301001666,3.234333423307589e-08,correcto
+ln(x) + x - 4,Newton,True,3,2.9262710624428703,6.306066779870889e-13,correcto
+ln(x) + x - 4,Newton mejorado,True,3,2.926271062444928,1.4273027204581012e-12,correcto
+e^(-x) - x,Bisección,True,20,0.567143440246582,1.498367980801163e-07,correcto
+e^(-x) - x,Falsa posición,True,7,0.5671433760339214,8.562413744694908e-08,correcto
+e^(-x) - x,Punto fijo,True,22,0.5671430289524634,2.614573205717008e-07,correcto
+e^(-x) - x,Secante,True,3,0.5671432905821386,1.7235468607879056e-10,correcto
+e^(-x) - x,Newton,True,2,0.5671431650348622,1.2537492177777665e-07,correcto
+e^(-x) - x,Newton mejorado,True,2,0.5671434273931901,1.3698340617374072e-07,correcto
+cos(x) - x,Bisección,True,20,0.7390851974487305,6.423356979645689e-08,correcto
+cos(x) - x,Falsa posición,True,5,0.7390847824489231,3.5076623761121084e-07,correcto
+cos(x) - x,Punto fijo,True,34,0.7390848229131414,3.1030201930182244e-07,correcto
+cos(x) - x,Secante,True,3,0.739084558312839,5.749023216372606e-07,correcto
+cos(x) - x,Newton,True,3,0.7390851339208068,7.056460971099909e-10,correcto
+cos(x) - x,Newton mejorado,True,3,0.7390851321653727,1.0497879232573837e-09,correcto
+sqrt(x) - cos(x),Bisección,True,20,0.641714382171631,1.1298748270327508e-08,correcto
+sqrt(x) - cos(x),Falsa posición,True,4,0.6417138391748605,5.316980222769274e-07,correcto
+sqrt(x) - cos(x),Punto fijo,True,14,0.6417141055339437,2.653389390427918e-07,correcto
+sqrt(x) - cos(x),Secante,True,3,0.6417143705771605,2.957222244859281e-10,correcto
+sqrt(x) - cos(x),Newton,True,2,0.641714866792004,4.959191212128289e-07,correcto
+sqrt(x) - cos(x),Newton mejorado,True,2,0.6417142562525041,1.1462037863285701e-07,correcto
